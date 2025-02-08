@@ -22,22 +22,22 @@ NB:
 My coursework has also included exploring business models for smart energy systems, equipping me with a comprehensive understanding of the energy industry's technological and commercial facets.
 
 **My major subjects in robotics program**
-Introduction to Robotics      
-Embedded C Programming  
-Intelligent Robotics
-Machine Vision for Robotics
-Applied Signal Processing     
-Machine Learning
-Applied Machine Learning
-Machine Learning for Computer Vision
-Embedded System Architecture and Design   
-Simulation of Production Systems    
-System Integrations
-GNSS Technologies
-Navigation Technologies for Autonomous Systems  
-Artificial Intelligence for Smart Power Systems 
-Modelling and Simulation of Energy Systems 
-Battery Energy Storages in Smart Grids (in English)
+1. Introduction to Robotics      
+2. Embedded C Programming  
+3. Intelligent Robotics
+4. Machine Vision for Robotics
+5. Applied Signal Processing     
+6. Machine Learning
+7. Applied Machine Learning
+8. Machine Learning for Computer Vision
+9. Embedded System Architecture and Design   
+10. Simulation of Production Systems    
+11. System Integrations
+12. GNSS Technologies
+13. Navigation Technologies for Autonomous Systems  
+14. Artificial Intelligence for Smart Power Systems 
+15. Modelling and Simulation of Energy Systems 
+16. Battery Energy Storages in Smart Grids (in English)
 
 
 Prior to study Master, I have working experiences in IT infrastructure administration, architect, IT service management, IT support and in Project Management. I am also an ITIL V4 certified and well versed with agile methods.
