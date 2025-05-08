@@ -11,6 +11,7 @@ During my academic journey, I have honed my skills in Applied machine learning, 
 
 NB: 
 **I have valid type A work permit as a specialist.**
+**I am open to relocate**
  
  **Academic Projects Work:**
 Academic Projects Work completed so far:
