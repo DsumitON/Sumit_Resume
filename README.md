@@ -13,11 +13,19 @@ NB:
 **I have valid type A work permit as a specialist.**
  
  **Academic Projects Work:**
-1. GNSS signal Jammer detection - Applied Machine learning.
-2. 3d model and Machine Vision in Quality Control - Machine learning for computer vision.
-3. Performance Analysis of a GNSS software-defined Receiver- GNSS
-4. Agile Project Management at Wärtsilä- Project Management
-5. Kite Wind Turbines as Renewable Alternative- Technology Management.
+Academic Projects Work completed so far:
+1. 911 call data analysis and IT incidents live dashboard in PowerBilt with maintain SQL Database-Data analysis in Python
+2. Production simulation of assembly line for food products using Visual component. - Simulation in Visual component
+3. Performance Analysis of a GNSS software-defined Receiver in Matlab
+4. Machine learning model for Jammer detection in GNSS signal using Norway jammer dataset collected by Petri and team. - Machine learning model using Python
+5. Machine learning model to detect Animal sound recognition using Signal processing and CNN using python. - Machine learning model using Python
+6. Image processing and creating 3d model as part of computer vision project.
+7. Real time GPS data recording and filtering using KALMAN filter in Matlab as part of navigation technology for automated vehicle system .
+8. Robot simulation project using ABB robot studio as part of introduction to robotics project.
+9. Embedded C programming on raspberry pi 5
+10. ROS hands on Programming
+11. Agile Project Management at Wärtsilä- group project work for the course Project Management
+
  
 My coursework has also included exploring business models for smart energy systems, equipping me with a comprehensive understanding of the energy industry's technological and commercial facets.
 
@@ -52,7 +60,7 @@ I am fluent in English, and I joined a Finnish course from Helsingin työväenop
  
 Outside work, I am jolly person having great interest in technology, photography, music and travels.
  
-Meanwhile I am also eager to contribute my skills and expertise to your organisation that values innovation, teamwork, and continuous improvement. Hence, I am looking for a part/full time jobs/summer Job/Internship.
+Meanwhile I am also eager to contribute my skills and expertise to your organisation that values innovation, teamwork, and continuous improvement. 
  
 Thank you for considering my application. I look forward to hearing from you.
 
