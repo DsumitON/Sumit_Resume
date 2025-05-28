@@ -77,7 +77,7 @@ IT Project Management
 Excellent experiences working IT projects in Banking, Retail, Manufacturing, Logistic and Textile Domain.
 I have worked in multiple projects in Bangalore, Sweden, Finland.
 
-** Certification:**
+**Certification:**
 
 ITIL V4 Certified from People-Cert
 Microsoft Certified: Azure Administrator Associate
