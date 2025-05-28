@@ -17,8 +17,7 @@ NB:
 PYTHON embedded c programming C programming Applied Machine Learning Computer vision YOLO OPenCV SQL PowerBI AWS AZURE CNN Machine Vision Scikit-learn TensorFlow PyTorch GNSS MATLAB Intelligent Robotics Linux (Terminal Commands, Bash/Shell) RobotStudio Suite| ABB Robotics ROS Production Simulation visual component Project Management Amazon Connect GIT Docker Network Maintenance and
 Troubleshooting Active Directory Administrative Tools Teraform Microsoft Azure (Azure Datafactory, Azure DevOps, Azure Storage Explorer) Windows Server (2003 up to 2022 - AD, DHCP, DNS, Print, Backup, etc.) linux Administartion windows server adminstration Problem Solving Skills Leadership, Decision making, Critical thinking, Relationship building perform project management
 
-# 23/08/2024 – CURRENT in Finland
-# MASTER IN ROBOTICS Vaasa University
+# 23/08/2024 – CURRENT - studying MASTER IN ROBOTICS Vaasa University, Finland
  **Academic Projects Work:**
 Academic Projects Work completed so far:
 1. 911 call data analysis and IT incidents live dashboard in PowerBilt with maintain SQL Database-Data analysis in Python
@@ -53,16 +52,13 @@ My coursework has also included exploring business models for smart energy syste
 15. Modelling and Simulation of Energy Systems 
 16. Battery Energy Storages in Smart Grids (in English)
 
-# 01/07/2006 – 01/07/2010 Rourkela, India
-# BACHELOR IN INFORMATION AND TECHNOLOGY Biju patnaik university of technology
-
+# 01/07/2006 – 01/07/2010 - completed BACHELOR IN INFORMATION AND TECHNOLOGY Biju patnaik university of technology, Rourkela, India
 
 # WORK EXPERIENCE: 
 Prior to study Master, I have working experiences in IT infrastructure administration, architect, IT service management, IT support and in Project Management. I am also an ITIL V4 certified and well versed with agile methods.
 In my past roles, I have been working in multiple IT projects in multiple domains like in manufacturing, textile and logistics, Banking, Finance and retail, all my past experiences always needed me to have a close collaboration with cross-functional team, vendors, and stakeholder and handling my own projects. I have significant experience in data analytical and visualization skills using, python, MATLAB, POWERBI and in Excel. I also have solid hands-on experience in ServiceNow, Zendesk and in Jira ITSM tool.
 
-# Employer Name :  INFOSYS OY
-# Role: IT OPERATION SPECILAIST – 11/01/2011 – 10/11/2023
+** Role: IT OPERATION SPECILAIST – 11/01/2011 – 10/11/2023 **
 IT Cloud infrastructure administration(Azure, AWS)
 Solution architect for Amazon Connect Service
 Automation with Python, Power shell, Bash
@@ -73,7 +69,7 @@ Data Analysis and visualization with Microsoft Power BI, ServiceNow
 IT Project Management
 Excellent experiences working IT projects in Banking, Retail, Manufacturing, Logistic and Textile Domain.
 I have worked in multiple projects in Bangalore, Sweden, Finland.
-# Certification:
+** Certification:**
 ITIL V4 Certified from People-Cert
 Microsoft Certified: Azure Administrator Associate
 Microsoft Certified: Identity and Access Administrator Associate
@@ -84,6 +80,7 @@ Professinal fluency in English and Basic fluency in Finnish language.
 
 Thanks & regards,
 Sumit Kumar Sahoo
+https://www.linkedin.com/in/sumitsahoo1989/
 https://github.com/DsumitON/Sumit_Resume.git
 Master in Robotics Program
 University of Vaasa, Finland.
