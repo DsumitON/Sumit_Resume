@@ -1,18 +1,24 @@
 # Sumit_Resume
 Please find the attached resume for your reference
-
-Dear Team,
  
-I am an experienced IT professional, currently pursuing my master’s degree in Robotics at Vaasa University, focusing on smart energy solutions.
- 
-During my academic journey, I have honed my skills in Applied machine learning, machine vision, applied signal processing, GNSS, embedded system design, intelligent robotics, quality control, and smart energy systems, complemented along with practical hands-on projects along with projects in technology Management, product design and service, project management and sustainable design.
+A motivated and technically skilled Master’s student in Smart Energy with a major in Robotics at the University of Vaasa, combining strong academic foundations with hands-on project experience in machine vision, machine learning, Robotics and automation.
 
- I am highly motivated to learn and experience real-world engineering challenges.
+I am currently transitioning from a IT infrastructure role into robotics, AI, and machine learning. Leveraging my technical and project management background to excel in intelligent system development and automation.
+
+I am passionate about sustainable technologies, smart city innovations, and the integration of intelligent systems and I am now seeking opportunities to contribute to forward-thinking organizations that value innovation and impact.
+
+I have excellent work experiences in IT cloud infrastructure management, Project management, SIAM Services and IT system administration and support.
 
 NB: 
 **I have valid type A work permit as a specialist.**
 **I am open to relocate**
- 
+
+# SKILLS:
+PYTHON embedded c programming C programming Applied Machine Learning Computer vision YOLO OPenCV SQL PowerBI AWS AZURE CNN Machine Vision Scikit-learn TensorFlow PyTorch GNSS MATLAB Intelligent Robotics Linux (Terminal Commands, Bash/Shell) RobotStudio Suite| ABB Robotics ROS Production Simulation visual component Project Management Amazon Connect GIT Docker Network Maintenance and
+Troubleshooting Active Directory Administrative Tools Teraform Microsoft Azure (Azure Datafactory, Azure DevOps, Azure Storage Explorer) Windows Server (2003 up to 2022 - AD, DHCP, DNS, Print, Backup, etc.) linux Administartion windows server adminstration Problem Solving Skills Leadership, Decision making, Critical thinking, Relationship building perform project management
+
+# 23/08/2024 – CURRENT in Finland
+# MASTER IN ROBOTICS Vaasa University
  **Academic Projects Work:**
 Academic Projects Work completed so far:
 1. 911 call data analysis and IT incidents live dashboard in PowerBilt with maintain SQL Database-Data analysis in Python
@@ -27,7 +33,6 @@ Academic Projects Work completed so far:
 10. ROS hands on Programming
 11. Agile Project Management at Wärtsilä- group project work for the course Project Management
 
- 
 My coursework has also included exploring business models for smart energy systems, equipping me with a comprehensive understanding of the energy industry's technological and commercial facets.
 
 **My major subjects in robotics program**
@@ -48,22 +53,34 @@ My coursework has also included exploring business models for smart energy syste
 15. Modelling and Simulation of Energy Systems 
 16. Battery Energy Storages in Smart Grids (in English)
 
+# 01/07/2006 – 01/07/2010 Rourkela, India
+# BACHELOR IN INFORMATION AND TECHNOLOGY Biju patnaik university of technology
 
+
+# WORK EXPERIENCE: 
 Prior to study Master, I have working experiences in IT infrastructure administration, architect, IT service management, IT support and in Project Management. I am also an ITIL V4 certified and well versed with agile methods.
+In my past roles, I have been working in multiple IT projects in multiple domains like in manufacturing, textile and logistics, Banking, Finance and retail, all my past experiences always needed me to have a close collaboration with cross-functional team, vendors, and stakeholder and handling my own projects. I have significant experience in data analytical and visualization skills using, python, MATLAB, POWERBI and in Excel. I also have solid hands-on experience in ServiceNow, Zendesk and in Jira ITSM tool.
 
-In my past roles, I have been working in multiple IT projects in multiple domains like in manufacturing, textile and logistics, Banking, Finance and retail, all my past experiences always needed me to have a close collaboration with cross-functional team, vendors, and stakeholder and handling my own projects.
+# Employer Name :  INFOSYS OY
+# Role: IT OPERATION SPECILAIST – 11/01/2011 – 10/11/2023
+IT Cloud infrastructure administration(Azure, AWS)
+Solution architect for Amazon Connect Service
+Automation with Python, Power shell, Bash
+Windows, Linux System administration
+IT SIAM Services
+IT support, IT service Desk Management
+Data Analysis and visualization with Microsoft Power BI, ServiceNow
+IT Project Management
+Excellent experiences working IT projects in Banking, Retail, Manufacturing, Logistic and Textile Domain.
+I have worked in multiple projects in Bangalore, Sweden, Finland.
+# Certification:
+ITIL V4 Certified from People-Cert
+Microsoft Certified: Azure Administrator Associate
+Microsoft Certified: Identity and Access Administrator Associate
+Microsoft Certified: Azure Fundamentals
  
-I have significant experience in Python, C programming, Bash, PowerShell, VB Script. I have excellent data analytical and visualization skills using, python, MATLAB, POWERBI and in Excel. I also have solid hands-on experience in ServiceNow, Zendesk and in Jira ITSM tool.
-
-I have been working in multiple IT projects in multiple domains in Banking, Finance, retail, manufacturing, textile and logistics. All my past experiences always needed me to have a close collaboration with cross-functional team, vendors, and stakeholder and handling my own projects. I have excellent knowledge on project Management and delivery. 
-
-I am fluent in English, and I joined a Finnish course from Helsingin työväenopisto 7 months back, hence my Finnish language is beginner level. But I am trying hard to make it fluent in couple of months.
- 
-Outside work, I am jolly person having great interest in technology, photography, music and travels.
- 
-Meanwhile I am also eager to contribute my skills and expertise to your organisation that values innovation, teamwork, and continuous improvement. 
- 
-Thank you for considering my application. I look forward to hearing from you.
+# Language :
+Professinal fluency in English and Basic fluency in Finnish language.
 
 Thanks & regards,
 Sumit Kumar Sahoo
