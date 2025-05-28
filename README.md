@@ -14,8 +14,7 @@ NB:
 **I am open to relocate**
 
 # SKILLS:
-PYTHON embedded c programming C programming Applied Machine Learning Computer vision YOLO OPenCV SQL PowerBI AWS AZURE CNN Machine Vision Scikit-learn TensorFlow PyTorch GNSS MATLAB Intelligent Robotics Linux (Terminal Commands, Bash/Shell) RobotStudio Suite| ABB Robotics ROS Production Simulation visual component Project Management Amazon Connect GIT Docker Network Maintenance and
-Troubleshooting Active Directory Administrative Tools Teraform Microsoft Azure (Azure Datafactory, Azure DevOps, Azure Storage Explorer) Windows Server (2003 up to 2022 - AD, DHCP, DNS, Print, Backup, etc.) linux Administartion windows server adminstration Problem Solving Skills Leadership, Decision making, Critical thinking, Relationship building perform project management
+PYTHON | embedded c programming | C programming | Applied Machine Learning | Computer vision | YOLO | OPenCV | SQL | PowerBI | AWS | AZURE | CNN | Machine Vision | Scikit-learn | TensorFlow | PyTorch | GNSS | MATLAB | Intelligent Robotics | Linux (Terminal Commands, Bash/Shell) | RobotStudio Suite |  ABB Robotics | ROS | Production Simulation | visual component | Project Management | Amazon Connect | GIT | Docker | Network Maintenance and Troubleshooting | Active Directory Administrative Tools | Terraform | Microsoft Azure | (Azure Datafactory, Azure DevOps, Azure Storage Explorer) | Windows Server (2003 up to 2022 - AD, DHCP, DNS, Print, Backup, etc.) | Linux Administration | windows server administration | Problem Solving Skills | Leadership, | Decision making, |  Critical thinking, |  Relationship building |  project management
 
 # MASTER IN ROBOTICS Vaasa University, Finland
 **23/08/2024 – Current**
