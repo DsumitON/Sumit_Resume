@@ -19,6 +19,7 @@ Troubleshooting Active Directory Administrative Tools Teraform Microsoft Azure (
 
 # MASTER IN ROBOTICS Vaasa University, Finland
 **23/08/2024 – Current**
+
 **Academic Projects Work:**
 Academic Projects Work completed so far:
 1. 911 call data analysis and IT incidents live dashboard in PowerBilt with maintain SQL Database-Data analysis in Python
