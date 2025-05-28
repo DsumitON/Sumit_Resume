@@ -60,7 +60,8 @@ My coursework has also included exploring business models for smart energy syste
 
 # WORK EXPERIENCE: 
 **Infosys Limited**
-**11/01/2011 – 10/11/2023** 
+**11/01/2011 – 10/11/2023**
+
 Prior to study Master, I have working experiences in IT infrastructure administration, architect, IT service management, IT support and in Project Management. I am also an ITIL V4 certified and well versed with agile methods.
 In my past roles, I have been working in multiple IT projects in multiple domains like in manufacturing, textile and logistics, Banking, Finance and retail, all my past experiences always needed me to have a close collaboration with cross-functional team, vendors, and stakeholder and handling my own projects. I have significant experience in data analytical and visualization skills using, python, MATLAB, POWERBI and in Excel. I also have solid hands-on experience in ServiceNow, Zendesk and in Jira ITSM tool.
 
