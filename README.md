@@ -15,25 +15,32 @@ NB:
 
 # SKILLS:
 
-**Programming & Scripting:
+**Programming & Scripting:**
+
 PYTHON | embedded c programming| C++ Programming Basics| C programming| MATLAB| SQL
 
-Machine Learning & AI:
+**Machine Learning & AI:**
+
 Applied Machine Learning| Statistics & Mathematics| Computer vision| OpenCV| YOLO| TensorFlow| CNN| Scikit-learn| PyTorch| Keras| Plotly| Algorithms: Decision Trees, Random Forest, SVM, KNN, Gradient Boosting (XGBoost, LightGBM)| Model evaluation & validation (cross-validation, confusion matrix)| Supervised learning (classification, regression)| Unsupervised learning (clustering, dimensionality reduction)| Jupyter Notebooks, Google Colab| Git/GitHub (version control)
 
-Data & Visualization:
+**Data & Visualization:**
+
 PowerBI| ServiceNow| Tableau
 
-Cloud Platforms & DevOps:
-- AWS| AZURE| Amazon Connect| GIT| Docker| CI/CD Pipelines (GitHub Actions, Jenkins)| Teraform
+**Cloud Platforms & DevOps:**
 
-Robotics & Simulation:
+AWS| AZURE| Amazon Connect| GIT| Docker| CI/CD Pipelines (GitHub Actions, Jenkins)| Teraform
+
+**Robotics & Simulation:**
+
 Intelligent Robotics| Machine Vision| GNSS| Sensor Fusion(IMU, LiDAR, Ultrasonic)| SLAM (Simultaneous Localization and Mapping)| Production Simulation| visual component| Robot Kinematics & Dynamics| Sensors & Actuators| RobotStudio (ABB)| (Arduino or Raspberry Pi)| Control Systems| Communication protocols: UART, SPI, I2C| ROS (Robot Operating System)| Gazebo Simulator
 
-Systems & Network Administration:
+**Systems & Network Administration:**
+
 Linux (Terminal Commands, Bash/Shell)| Network Maintenance and Troubleshooting| Active Directory Administrative Tools| Windows Server (2003 up to 2022 - AD, DHCP, DNS, Print, Backup, etc.)| linux Administartion
 
-Project & Soft Skills:
+**Project & Soft Skills:**
+
 Project Management| Problem Solving Skills| Leadership, Decision making, Critical thinking, Relationship building| Agile / Scrum Methodologies 
 
 
@@ -63,7 +70,7 @@ My coursework has also included exploring business models for smart energy syste
 3. Intelligent Robotics
 4. Machine Vision for Robotics
 5. Applied Signal Processing     
-6. Machine Learning
+6. Machine LearProgramming & Scripting:ning
 7. Applied Machine Learning
 8. Machine Learning for Computer Vision
 9. Embedded System Architecture and Design   
@@ -79,33 +86,49 @@ My coursework has also included exploring business models for smart energy syste
 **01/07/2006 – 01/07/2010**
 
 # WORK EXPERIENCE: 
+
 **Infosys Limited**
+
 **11/01/2011 – 10/11/2023**
 
 Prior to study Master, I have working experiences in IT infrastructure administration, architect, IT service management, IT support and in Project Management. I am also an ITIL V4 certified and well versed with agile methods.
 In my past roles, I have been working in multiple IT projects in multiple domains like in manufacturing, textile and logistics, Banking, Finance and retail, all my past experiences always needed me to have a close collaboration with cross-functional team, vendors, and stakeholder and handling my own projects. I have significant experience in data analytical and visualization skills using, python, MATLAB, POWERBI and in Excel. I also have solid hands-on experience in ServiceNow, Zendesk and in Jira ITSM tool.
 
- INFOSYS
-IT OPERATION SPECIALIST – 11/01/2011 – 10/11/2023
+**IT OPERATION SPECIALIST – 11/01/2011 – 10/11/2023**
+
 • Experienced in IT Cloud Infrastructure Administration across Microsoft Azure and Amazon Web Services (AWS)
+
 • Served as Solution Architect for Amazon Connect cloud-based contact center solutions
+
 • Proficient in automation scripting using Python, PowerShell, and Bash
+
 • Skilled in Windows and Linux system administration, including performance tuning and troubleshooting
+
 • Knowledgeable in IT SIAM (Service Integration and Management) practices
+
 • Strong background in IT Support and Service Desk Management for enterprise environments
+
 • Competent in data analysis and visualization using Microsoft Power BI and ServiceNow Reporting
+
 • Experienced in IT Project Management, including planning, execution, and stakeholder coordination
+
 • Successfully delivered IT solutions in diverse domains: Banking, Retail, Manufacturing, Logistics, and Textile
+
 • Worked on multiple international and cross-functional IT projects in Bangalore (India), Sweden, and Finland
 
-Certifications:
+**Certifications:**
+
 • ITIL® 4 Foundation Certification – PeopleCert
+
 • Microsoft Certified: Azure Administrator Associate
+
 • Microsoft Certified: Identity and Access Administrator Associate
+
 • Microsoft Certified: Azure Fundamental
 
  
 # Language :
+
 Professinal fluency in English and Basic fluency in Finnish language.
 
 Thanks & regards,
