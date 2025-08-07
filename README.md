@@ -1,20 +1,41 @@
 # Sumit_Resume
-Please find the attached resume for your reference
- 
-A motivated and technically skilled Master’s student in Smart Energy with a major in Robotics at the University of Vaasa, combining strong academic foundations with hands-on project experience in machine vision, machine learning, Robotics and automation.
-
-I am currently transitioning from a IT infrastructure role into robotics, AI, and machine learning. Leveraging my technical and project management background to excel in intelligent system development and automation.
-
-I am passionate about sustainable technologies, smart city innovations, and the integration of intelligent systems and I am now seeking opportunities to contribute to forward-thinking organizations that value innovation and impact.
-
-I have excellent work experiences in IT cloud infrastructure management, Project management, SIAM Services and IT system administration and support.
+I am a motivated and technically skilled Master’s student in Smart Energy with a major in Robotics at the University of Vaasa,
+combining a solid academic foundation with hands-on experience in machine vision, machine learning, robotics, and automation.
+With a professional background in IT cloud infrastructure management, project management, and IT system administration, I bring
+a unique combination of technical expertise and cross-functional experience.
+I am currently transitioning from IT infrastructure into the fields of robotics, artificial intelligence, and machine learning, aiming to
+leverage my background to excel in the development of intelligent systems and automation solutions.
+I am passionate about sustainable technologies, smart city innovations, and the integration of intelligent systems that create
+meaningful impact. I am actively seeking opportunities to contribute to forward-thinking organizations that value innovation,
+sustainability, and real-world outcomes.
 
 NB: 
-**I have valid type A work permit as a specialist.**
-**I am open to relocate**
+**I hold a long-term, valid Type A work permit (specialist category) in Finland and am open to relocation.**
+
 
 # SKILLS:
-PYTHON | embedded c programming | C programming | Applied Machine Learning | Computer vision | YOLO | OPenCV | SQL | PowerBI | AWS | AZURE | CNN | Machine Vision | Scikit-learn | TensorFlow | PyTorch | GNSS | MATLAB | Intelligent Robotics | Linux (Terminal Commands, Bash/Shell) | RobotStudio Suite |  ABB Robotics | ROS | Production Simulation | visual component | Project Management | Amazon Connect | GIT | Docker | Network Maintenance and Troubleshooting | Active Directory Administrative Tools | Terraform | Microsoft Azure | (Azure Datafactory, Azure DevOps, Azure Storage Explorer) | Windows Server (2003 up to 2022 - AD, DHCP, DNS, Print, Backup, etc.) | Linux Administration | windows server administration | Problem Solving Skills | Leadership, | Decision making, |  Critical thinking, |  Relationship building |  project management
+
+**Programming & Scripting:
+PYTHON | embedded c programming| C++ Programming Basics| C programming| MATLAB| SQL
+
+Machine Learning & AI:
+Applied Machine Learning| Statistics & Mathematics| Computer vision| OpenCV| YOLO| TensorFlow| CNN| Scikit-learn| PyTorch| Keras| Plotly| Algorithms: Decision Trees, Random Forest, SVM, KNN, Gradient Boosting (XGBoost, LightGBM)| Model evaluation & validation (cross-validation, confusion matrix)| Supervised learning (classification, regression)| Unsupervised learning (clustering, dimensionality reduction)| Jupyter Notebooks, Google Colab| Git/GitHub (version control)
+
+Data & Visualization:
+PowerBI| ServiceNow| Tableau
+
+Cloud Platforms & DevOps:
+- AWS| AZURE| Amazon Connect| GIT| Docker| CI/CD Pipelines (GitHub Actions, Jenkins)| Teraform
+
+Robotics & Simulation:
+Intelligent Robotics| Machine Vision| GNSS| Sensor Fusion(IMU, LiDAR, Ultrasonic)| SLAM (Simultaneous Localization and Mapping)| Production Simulation| visual component| Robot Kinematics & Dynamics| Sensors & Actuators| RobotStudio (ABB)| (Arduino or Raspberry Pi)| Control Systems| Communication protocols: UART, SPI, I2C| ROS (Robot Operating System)| Gazebo Simulator
+
+Systems & Network Administration:
+Linux (Terminal Commands, Bash/Shell)| Network Maintenance and Troubleshooting| Active Directory Administrative Tools| Windows Server (2003 up to 2022 - AD, DHCP, DNS, Print, Backup, etc.)| linux Administartion
+
+Project & Soft Skills:
+Project Management| Problem Solving Skills| Leadership, Decision making, Critical thinking, Relationship building| Agile / Scrum Methodologies 
+
 
 # MASTER IN ROBOTICS Vaasa University, Finland
 **23/08/2024 – Current**
@@ -54,7 +75,7 @@ My coursework has also included exploring business models for smart energy syste
 15. Modelling and Simulation of Energy Systems 
 16. Battery Energy Storages in Smart Grids (in English)
 
-# BACHELOR IN IT, BPUT, Rourkela, India 
+# BACHELOR IN Information Technology, BPUT, Rourkela, India 
 **01/07/2006 – 01/07/2010**
 
 # WORK EXPERIENCE: 
@@ -64,27 +85,25 @@ My coursework has also included exploring business models for smart energy syste
 Prior to study Master, I have working experiences in IT infrastructure administration, architect, IT service management, IT support and in Project Management. I am also an ITIL V4 certified and well versed with agile methods.
 In my past roles, I have been working in multiple IT projects in multiple domains like in manufacturing, textile and logistics, Banking, Finance and retail, all my past experiences always needed me to have a close collaboration with cross-functional team, vendors, and stakeholder and handling my own projects. I have significant experience in data analytical and visualization skills using, python, MATLAB, POWERBI and in Excel. I also have solid hands-on experience in ServiceNow, Zendesk and in Jira ITSM tool.
 
-**Role: IT OPERATION SPECILAIST**
+ INFOSYS
+IT OPERATION SPECIALIST – 11/01/2011 – 10/11/2023
+• Experienced in IT Cloud Infrastructure Administration across Microsoft Azure and Amazon Web Services (AWS)
+• Served as Solution Architect for Amazon Connect cloud-based contact center solutions
+• Proficient in automation scripting using Python, PowerShell, and Bash
+• Skilled in Windows and Linux system administration, including performance tuning and troubleshooting
+• Knowledgeable in IT SIAM (Service Integration and Management) practices
+• Strong background in IT Support and Service Desk Management for enterprise environments
+• Competent in data analysis and visualization using Microsoft Power BI and ServiceNow Reporting
+• Experienced in IT Project Management, including planning, execution, and stakeholder coordination
+• Successfully delivered IT solutions in diverse domains: Banking, Retail, Manufacturing, Logistics, and Textile
+• Worked on multiple international and cross-functional IT projects in Bangalore (India), Sweden, and Finland
 
+Certifications:
+• ITIL® 4 Foundation Certification – PeopleCert
+• Microsoft Certified: Azure Administrator Associate
+• Microsoft Certified: Identity and Access Administrator Associate
+• Microsoft Certified: Azure Fundamental
 
-
-IT Cloud infrastructure administration(Azure, AWS)
-Solution architect for Amazon Connect Service
-Automation with Python, Power shell, Bash
-Windows, Linux System administration
-IT SIAM Services
-IT support, IT service Desk Management
-Data Analysis and visualization with Microsoft Power BI, ServiceNow
-IT Project Management
-Excellent experiences working IT projects in Banking, Retail, Manufacturing, Logistic and Textile Domain.
-I have worked in multiple projects in Bangalore, Sweden, Finland.
-
-**Certification:**
-
-ITIL V4 Certified from People-Cert
-Microsoft Certified: Azure Administrator Associate
-Microsoft Certified: Identity and Access Administrator Associate
-Microsoft Certified: Azure Fundamentals
  
 # Language :
 Professinal fluency in English and Basic fluency in Finnish language.
