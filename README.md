@@ -1,13 +1,5 @@
 # Sumit_Resume
-I am a motivated and technically skilled Master’s student in Smart Energy with a major in Robotics at the University of Vaasa,
-combining a solid academic foundation with hands-on experience in machine vision, machine learning, robotics, and automation.
-With a professional background in IT cloud infrastructure management, project management, and IT system administration, I bring
-a unique combination of technical expertise and cross-functional experience.
-I am currently transitioning from IT infrastructure into the fields of robotics, artificial intelligence, and machine learning, aiming to
-leverage my background to excel in the development of intelligent systems and automation solutions.
-I am passionate about sustainable technologies, smart city innovations, and the integration of intelligent systems that create
-meaningful impact. I am actively seeking opportunities to contribute to forward-thinking organizations that value innovation,
-sustainability, and real-world outcomes.
+Innovative and technically skilled professional transitioning from IT infrastructure and cloud systems into advanced robotics, AI, and automation. Currently pursuing a Master of Science in Technology (Smart Energy – Robotics major) at the University of Vaasa with a strong academic record, specializing in machine learning, intelligent robotics, and embedded system design. Skilled in ROS, Gazebo, ABB RobotStudio, Machine Vision, and Deep Learning (PyTorch, TensorFlow), with hands-on experience in robot simulation, perception systems, GNSS-based navigation, and Kalman filtering. Proficient in Python, C, and C++, with practical knowledge in sensor fusion, SLAM, and control systems. Combining a foundation in cloud and software systems (AWS, Azure) with AI-driven problem solving and robotics R&D to develop scalable, real-world automation solutions.
 
 NB: 
 **I hold a long-term, valid Type A work permit (specialist category) in Finland and am open to relocation.**
